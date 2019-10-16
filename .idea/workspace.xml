@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09217bb3-4e1e-4e07-8032-aac19005be02" name="Default Changelist" comment="" />
+    <list default="true" id="09217bb3-4e1e-4e07-8032-aac19005be02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shop/Initialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shop/Tax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shop/Cosmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop/Cosmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shop/DailyUsable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop/DailyUsable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shop/Eatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop/Eatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shop/ItemType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop/ItemType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shop/ShopMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shop/ShopMain.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +31,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SEVsPovrie9EDth6DViMjkYS7g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
   </component>
@@ -80,5 +96,18 @@
       <updated>1571128947962</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

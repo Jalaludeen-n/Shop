@@ -1,11 +1,11 @@
 package Shop;
 
-public abstract class ItemType extends Calculator {
+public abstract class ItemType  {
 
-    String code;
-    String name;
-    float prize;
-    float gst;
+    private String code;
+    private String name;
+    private float prize;
+    private float gst;
 
     public ItemType(String code, String name, float prize, float gst) {
         this.code = code;
@@ -26,8 +26,7 @@ public abstract class ItemType extends Calculator {
         return prize;
     }
 
-    float getGst()
-    {
+    float getGst() {
         return gst;
     }
 }
